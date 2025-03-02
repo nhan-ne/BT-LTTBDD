@@ -1,4 +1,4 @@
-# Bài tập 
+# Bài tập tuần 1
 ## Câu 1: Mong muốn và định hướng sau khi học xong môn học
 Sau khi học xong môn học này, tôi mong muốn:
 
