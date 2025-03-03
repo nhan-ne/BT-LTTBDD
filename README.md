@@ -20,4 +20,5 @@ Theo tôi, lập trình di động vẫn sẽ phát triển mạnh trong 10 năm
 •	Sự phát triển của công nghệ đa nền tảng (Flutter, React Native, MAUI) giúp dễ dàng phát triển ứng dụng cho cả Android & iOS.
 
 •	Sự mở rộng của ứng dụng di động vào nhiều lĩnh vực như thương mại điện tử, sức khỏe, giáo dục, tài chính…
-
+## Câu 3:
+![Ảnh minh họa](Image.png)
