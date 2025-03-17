@@ -35,7 +35,7 @@ class ComponentsList extends StatelessWidget {
                 children: [Text('Item 1'), SizedBox(width: 10), Text('Item 2')],
               )),
 
-              SizedBox(height: 20), // Khoảng cách dưới cùng
+              SizedBox(height: 20), 
             ],
           ),
         ),
